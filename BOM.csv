@@ -1,0 +1,14 @@
+﻿Component Name,Quantity,Unit Price (€),Total Price (€),Reichelt Search Term / Part Number
+"Arduino Nano v3.x (ATmega328P, THT)",1,5.9,5.9,ARDUINO NANO V3
+MH-Z19B NDIR CO2 Sensor (0-5000 ppm),1,26.0,26.0,MH-Z19B
+AM2302 / DHT22 Temp & Humidity Sensor (THT),1,4.95,4.95,DHT22 AM2302
+"0.96 inch I2C OLED Display Module (128x64, 4-Pin)",1,5.5,5.5,DEBO OLED 0.96
+"Resistor 10 kOhm (THT, Metal Film 0.25W / 0207)",1,0.1,0.1,VIS MBB0207 10K
+"Ceramic Capacitor 100 nF (THT, 5mm Pitch)",1,0.12,0.12,KERKO 100N
+"Electrolytic Capacitor 100 uF / 25V (THT, Radial)",1,0.18,0.18,RAD 100/25
+"Pin Header Socket 2.54mm (1x4-Pin, THT)",3,0.35,1.05,MBL 1X04G
+"Pin Header Socket 2.54mm (1x15-Pin for Nano, THT)",2,0.6,1.2,MBL 1X15G
+Reichelt Shipping (Standard DE),1,5.95,5.95,-
+JLCPCB Custom PCB Fabrication (5 pcs + Shipping),5,1.5,7.5,JLCPCB Order
+GRAND TOTAL (EUR),,,58.45,-
+GRAND TOTAL (USD),,,$63.13,-
