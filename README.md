@@ -26,3 +26,5 @@ Total cost ended up around **€58 / ~$63 USD**, including component sourcing fr
 <img width="1413" height="821" alt="Screenshot 2026-11-07 142436" src="https://github.com/user-attachments/assets/04bb2287-9b2f-48e9-95b7-ea0f88d03a5e" />
 <img width="785" height="822" alt="Screenshot 2026-11-07 155847" src="https://github.com/user-attachments/assets/4a772230-617a-4021-bda7-581415df1fbf" />
 <img width="651" height="518" alt="Screenshot 2026-11-07 155912" src="https://github.com/user-attachments/assets/ccb5f858-c34d-4265-810d-b1e1a173b972" />
+<img width="711" height="743" alt="image" src="https://github.com/user-attachments/assets/e1ff30ad-b624-434b-a0fb-ddfb89b931c3" />
+
