@@ -20,3 +20,9 @@ The setup is built completely with through-hole (THT) components on socket heade
 ## Total Cost
 Total cost ended up around **€58 / ~$63 USD**, including component sourcing from Reichelt and getting 5 custom PCBs fabricated via JLCPCB (shipping included). Full component breakdown is available in the `BOM.csv` file.
 
+<img width="1108" height="634" alt="Screenshot 2026-11-07 161853" src="https://github.com/user-attachments/assets/49d1adef-8ea9-403f-871a-53680bad52de" />
+<img width="1089" height="829" alt="Screenshot 2026-11-07 161722" src="https://github.com/user-attachments/assets/257a45c8-e4c6-406f-923a-4d05442cd2fa" />
+<img width="1066" height="440" alt="Screenshot 2026-11-07 142559" src="https://github.com/user-attachments/assets/12f1b4e8-eabc-4b98-a1af-4652d850d032" />
+<img width="1413" height="821" alt="Screenshot 2026-11-07 142436" src="https://github.com/user-attachments/assets/04bb2287-9b2f-48e9-95b7-ea0f88d03a5e" />
+<img width="785" height="822" alt="Screenshot 2026-11-07 155847" src="https://github.com/user-attachments/assets/4a772230-617a-4021-bda7-581415df1fbf" />
+<img width="651" height="518" alt="Screenshot 2026-11-07 155912" src="https://github.com/user-attachments/assets/ccb5f858-c34d-4265-810d-b1e1a173b972" />
