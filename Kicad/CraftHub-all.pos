@@ -1,0 +1,27 @@
+### Footprint positions - created on 2026-11-15T18:01:50 ###
+### Printed by KiCad version 10.0.3
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val           Package                                                PosX       PosY       Rot  Side
+C1        22pF          C_Disc_D3.0mm_W1.6mm_P2.50mm                       208.3900   -58.9100  -90.0000  top
+C2        22pF          C_Disc_D3.0mm_W1.6mm_P2.50mm                       210.6300   -61.0400    0.0000  top
+C4        100nF         C_Disc_D3.0mm_W1.6mm_P2.50mm                       208.5000   -56.6600   90.0000  top
+C5        100nF         C_Disc_D3.0mm_W1.6mm_P2.50mm                       210.6400   -58.2400    0.0000  top
+C6        100nF         C_Disc_D3.0mm_W1.6mm_P2.50mm                       203.2500   -71.0900    0.0000  top
+H1        MountingHole  MountingHole_2.2mm_M2                              226.9800   -52.8400    0.0000  top
+H2        MountingHole  MountingHole_2.2mm_M2                              226.5100   -72.0500    0.0000  top
+H3        MountingHole  MountingHole_2.2mm_M2                              155.6800   -53.9300    0.0000  top
+J1        USB_A         USB_A_Molex_67643_Horizontal                       136.2600   -61.8100    0.0000  top
+J2        USB_A         USB_A_Molex_67643_Horizontal                       154.2200   -61.8400    0.0000  top
+J3        USB_A         USB_A_Molex_67643_Horizontal                       172.3000   -61.8500    0.0000  top
+J4        USB_A         USB_A_Molex_67643_Horizontal                       190.3100   -61.7600    0.0000  top
+J5        USB_C         PinHeader_1x06_P2.54mm_Vertical                    216.6200   -57.1000    0.0000  top
+R1        5.1k          R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal   208.3800   -51.5400    0.0000  top
+R3        2.7k          R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal   148.9300   -52.0300  180.0000  top
+R4        10k           R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal   139.1200   -52.0000  180.0000  top
+R5        10k           R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal   188.5200   -52.2900  180.0000  top
+R6        10k           R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal   190.9800   -52.2900    0.0000  top
+R7        10k           R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal   178.5000   -55.2500  180.0000  top
+U1        FE1.1s        SSOP-28_3.9x9.9mm_P0.635mm                         210.8700   -67.7600    0.0000  top
+Y1        Crystal       Crystal_HC49-U_Vertical                            204.4200   -60.9700   90.0000  top
+## End
