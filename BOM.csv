@@ -1,14 +1,14 @@
-Component,Value / Specification,Quantity,Link,Unit Price (€),Total Price (€),Notes
-USB 2.0 Hub IC,FE1.1s (SSOP-28),1,https://www.amazon.de/gp/product/B0B9JZ5PLP/ref=ox_sc_act_title_4?smid=A2E6K5ZGZ0THZC&psc=1,2.5,2.5,"Core of the hub, consider SSOP-to-DIP adapter for manual soldering"
-USB-C Connector,USB-C Breakout Bord,1,https://www.amazon.de/gp/product/B0H45QPTQ6/ref=ox_sc_act_title_6?smid=AC5NV2M0US0L7&psc=1,7.57,7.57,Input / Upstream connection to PC
-USB-A Connectors,USB-A Receptacle 90° THT ,4,https://www.reichelt.de/de/de/shop/produkt/usb-einbaubuchse_serie_a_gew_printmontage-22184,0.15,0.75,Outputs / Downstream ports for devices
-Crystal,12 MHz HC-49U ,2,https://www.reichelt.de/de/de/shop/produkt/standardquarz_metall_12mhz_25ppm_30pf_10_7mm_x_4_3mm_x_2_8mm-407369,0.27,0.54,Clock generator for the FE1.1s controller
-Ceramic Capacitors,22pF,5,https://www.reichelt.de/de/de/shop/produkt/keramik-kondensator_22_pf_10_npo_500_v_rm_5-9330,0.04,0.20,Load capacitors for the 12MHz crystal
-Decoupling Capacitors,100nF ,5,https://www.reichelt.de/de/de/shop/produkt/vielschicht-kerko_100_nf_50_100_v_z5u_20_rm_2_5-22977,0.05,0.25,Bypass capacitors at VCC pins
-Resistors,10/5.1/2.7k Ohm ,10/5/10,https://www.reichelt.de/de/de/shop/produkt/duennschichtwiderstand_axial_0_6_w_10_kohm_1_-233666//https://www.reichelt.de/de/de/shop/produkt/duennschichtwiderstand_axial_0_6_w_5_1_kohm_1_-233749//https://www.reichelt.de/de/de/shop/produkt/widerstand_kohleschicht_2_7_kohm_0207_250_mw_5_-1375,0.05/0.09/0.042,1.37,Pull-up / configuration resistors
-6 Pin Header,6 Pin Header,1,https://www.reichelt.de/de/de/shop/produkt/stiftleisten_2_54_mm_1x20_gerade-119888,0.33,0.33,Pin Header to connect the USB-C Board to the PCB
-Printed Circuit Board (PCB),Custom 2-Layer PCB,1,https://jlcpcb.com,4.5,4.5,Manufacturing cost for 5 PCBs
-Shipping (Components),Amazon/Reichelt,2,,11.5/6,17.5,Postage for electronic components
-Shipping (JLCPCB PCB),Standard Shipping,1,,1.4,1.4,Shipping of PCBs/3D from China
-Tax and Fee,Tax and Fee for shipping to EU (JLCPBC),1,,6.0,6.0,Shipping of PCBs/3D to EU
-TOTAL,ca. EUR: 42.91 € | USD: $47.24,,,,,
+﻿Component Name,Quantity,Unit Price (€),Total Price (€),Reichelt Search Term / Part Number
+"Arduino Nano v3.x (ATmega328P, THT)",1,5.9,5.9,ARDUINO NANO V3
+MH-Z19B NDIR CO2 Sensor (0-5000 ppm),1,26.0,26.0,MH-Z19B
+AM2302 / DHT22 Temp & Humidity Sensor (THT),1,4.95,4.95,DHT22 AM2302
+"0.96 inch I2C OLED Display Module (128x64, 4-Pin)",1,5.5,5.5,DEBO OLED 0.96
+"Resistor 10 kOhm (THT, Metal Film 0.25W / 0207)",1,0.1,0.1,VIS MBB0207 10K
+"Ceramic Capacitor 100 nF (THT, 5mm Pitch)",1,0.12,0.12,KERKO 100N
+"Electrolytic Capacitor 100 uF / 25V (THT, Radial)",1,0.18,0.18,RAD 100/25
+"Pin Header Socket 2.54mm (1x4-Pin, THT)",3,0.35,1.05,MBL 1X04G
+"Pin Header Socket 2.54mm (1x15-Pin for Nano, THT)",2,0.6,1.2,MBL 1X15G
+Reichelt Shipping (Standard DE),1,5.95,5.95,-
+JLCPCB Custom PCB Fabrication (5 pcs + Shipping),5,1.5,7.5,JLCPCB Order
+GRAND TOTAL (EUR),,,58.45,-
+GRAND TOTAL (USD),,,$63.13,-
