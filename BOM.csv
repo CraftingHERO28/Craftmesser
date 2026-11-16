@@ -9,6 +9,6 @@ Resistors,10/5.1/2.7k Ohm ,10/5/10,https://www.reichelt.de/de/de/shop/produkt/du
 6 Pin Header,6 Pin Header,1,https://www.reichelt.de/de/de/shop/produkt/stiftleisten_2_54_mm_1x20_gerade-119888,0.33,0.33,Pin Header to connect the USB-C Board to the PCB
 Printed Circuit Board (PCB),Custom 2-Layer PCB,1,https://jlcpcb.com,4.5,4.5,Manufacturing cost for 5 PCBs
 Shipping (Components),Amazon/Reichelt,2,,11.5/6,17.5,Postage for electronic components
-Shipping (JLCPCB PCB),Standard Shipping,1,,1.4,2.8,Shipping of PCBs/3D from China
-Tax and Fee,Tax and Fee for shipping to EU (JLCPBC),1,,6.0,12.0,Shipping of PCBs/3D to EU
-TOTAL,ca. EUR: 42.91 € | USD: $47.24,,,,42.91,
+Shipping (JLCPCB PCB),Standard Shipping,1,,1.4,1.4,Shipping of PCBs/3D from China
+Tax and Fee,Tax and Fee for shipping to EU (JLCPBC),1,,6.0,6.0,Shipping of PCBs/3D to EU
+TOTAL,ca. EUR: 42.91 € | USD: $47.24,,,,,
