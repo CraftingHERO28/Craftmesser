@@ -20,6 +20,7 @@ The setup is built completely with THT components on socket headers so everythin
 
 ## Bill of Materials (BOM)
 
+<img width="1453" height="238" alt="Screenshot 2026-11-19 192831" src="https://github.com/user-attachments/assets/cbe51dea-00bb-43e1-aca7-f8fa9ca1321a" />
 
 ---
 
@@ -98,5 +99,11 @@ All components share a common `5V` and `GND` rail decoupled by the `100µF` elec
 * **Thermal Isolation:** The biggest challenge was keeping heat from the Arduino regulator and the CO₂ sensor away from the temperature reading. I ended up placing the DHT22 at the far corner of the PCB away from major trace paths.
 * **Trace Routing:** I initially tried making decorative parallel power traces ("trace art"), but quickly realized it created routing clutter and unnecessary heat bridges toward the temp sensor. Going back to clean, single traces worked much better.
 * **Edge Cuts:** I also experimented with slot cutouts on the PCB board outline (`Edge.Cuts`) for thermal isolation, but KiCad threw continuous DRC errors for open contours. Placing the sensor at the board edge using FR4's natural isolation turned out to be more than enough without messing with custom PCB millings.
+
+<img width="1089" height="829" alt="Screenshot 2026-11-07 161722" src="https://github.com/user-attachments/assets/97f6b57f-08c0-438a-af99-aefa959075eb" />
+<img width="651" height="518" alt="Screenshot 2026-11-07 155912" src="https://github.com/user-attachments/assets/91ec2a33-308d-49c5-a478-91cdf55f7904" />
+<img width="785" height="822" alt="Screenshot 2026-11-07 155847" src="https://github.com/user-attachments/assets/e00c4aea-028c-4498-b665-c8754d10a56c" />
+<img width="1066" height="440" alt="Screenshot 2026-11-07 142559" src="https://github.com/user-attachments/assets/86854683-9a92-418f-ba70-8c2b5642de8d" />
+<img width="1413" height="821" alt="Screenshot 2026-11-07 142436" src="https://github.com/user-attachments/assets/cb18f983-4eb6-4175-bf99-34fd8aedba9b" />
 
 _translated with google Translator_
