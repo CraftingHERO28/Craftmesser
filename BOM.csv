@@ -1,14 +1,14 @@
-﻿Component Name,Quantity,Unit Price (€),Total Price (€),Reichelt Search Term / Part Number
-"Arduino Nano v3.x (ATmega328P, THT)",1,5.9,5.9,ARDUINO NANO V3
-MH-Z19B NDIR CO2 Sensor (0-5000 ppm),1,26.0,26.0,MH-Z19B
-AM2302 / DHT22 Temp & Humidity Sensor (THT),1,4.95,4.95,DHT22 AM2302
-"0.96 inch I2C OLED Display Module (128x64, 4-Pin)",1,5.5,5.5,DEBO OLED 0.96
-"Resistor 10 kOhm (THT, Metal Film 0.25W / 0207)",1,0.1,0.1,VIS MBB0207 10K
-"Ceramic Capacitor 100 nF (THT, 5mm Pitch)",1,0.12,0.12,KERKO 100N
-"Electrolytic Capacitor 100 uF / 25V (THT, Radial)",1,0.18,0.18,RAD 100/25
-"Pin Header Socket 2.54mm (1x4-Pin, THT)",3,0.35,1.05,MBL 1X04G
-"Pin Header Socket 2.54mm (1x15-Pin for Nano, THT)",2,0.6,1.2,MBL 1X15G
-Reichelt Shipping (Standard DE),1,5.95,5.95,-
-JLCPCB Custom PCB Fabrication (5 pcs + Shipping),5,1.5,7.5,JLCPCB Order
-GRAND TOTAL (EUR),,,58.45,-
-GRAND TOTAL (USD),,,$63.13,-
+﻿Component Name,Quantity,Unit Price (€),Total Price (€),Reichelt Search Term / Part Number,link
+"Arduino Nano v3.x (ATmega328P, THT)",1,5.75,5.75,ARDUINO NANO V3,https://www.reichelt.de/de/de/shop/produkt/arduino_kompatibles_nano_board_atmega328pb_usb-c_extra_io-372078
+MH-Z19B NDIR CO2 Sensor (0-5000 ppm),1,31.5,31.5,MH-Z19B,https://www.reichelt.de/de/de/shop/produkt/infrarot_co2-sensor_mh-z19c_pinleiste_rm_2_54-297320
+AM2302 / DHT22 Temp & Humidity Sensor (THT),1,7.99,7.99,DHT22 AM2302,https://www.reichelt.de/de/de/shop/produkt/entwicklerboards_-_temperatur-_feuchtigkeitssensor_dht22-266104
+"0.96 inch I2C OLED Display Module (128x64, 4-Pin)",1,8.85,8.85,DEBO OLED 0.96,https://www.reichelt.de/de/de/shop/produkt/entwicklerboards_-_display_0_96_oled-display_ssd1306-372107
+"Resistor 10 kOhm (THT, Metal Film 0.25W / 0207)",1,0.05,0.05,VIS MBB0207 10K,https://www.reichelt.de/de/de/shop/produkt/duennschichtwiderstand_axial_0_6_w_10_kohm_1_-233666
+"Ceramic Capacitor 100 nF (THT, 5mm Pitch)",1,0.04,0.04,KERKO 100N,https://www.reichelt.de/de/de/shop/produkt/keramik-kondensator_100_nf_-20_80_y5v_50_100_v_rm_5-9265
+"Electrolytic Capacitor 100 uF / 25V (THT, Radial)",1,0.04,0.04,RAD 100/25,https://www.reichelt.de/de/de/shop/produkt/elko_radial_100_f_25_v_rm_2_5_85_c_2000h_20_-15102
+"Pin Header Socket 2.54mm (1x4-Pin, THT)",3,0.4,1.20,MBL 1X04G,https://www.reichelt.de/de/de/shop/produkt/stiftleiste_2_00mm_1x4_gerade-262751
+"Pin Header Socket 2.54mm (1x15-Pin for Nano, THT)",2,0.74,1.48,MBL 1X15G,https://www.reichelt.de/de/de/shop/produkt/stiftleiste_2_00mm_1x16_gerade-262758
+Reichelt Shipping (Standard DE),1,5.95,5.95,-,
+JLCPCB Custom PCB Fabrication (5 pcs + Shipping),5,-,1.98(+7),JLCPCB Order,
+GRAND TOTAL (EUR),,,71.8,-,
+GRAND TOTAL (USD),,,"$78,83",-,
